@@ -1,3 +1,3 @@
-# Lower-Back-Pain-Prediction
+# Lumbar Spine Health Prediction System
 
 Using ML Stacking
